@@ -1,6 +1,4 @@
-#Компьютерное зрение 2024 
-##ITMO openedu 
-
+# Компьютерное зрение 2024 ITMO openedu 
 ## Содержание:
 1.    [Введение. Предобработка изображений]()  
 2.    [Классификация изображений](https://github.com/IVAN-SMIT/Computer-vision-ITMO/blob/main/task2.ipynb)  

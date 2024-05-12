@@ -10,3 +10,4 @@
 8.   [Stereo vision](https://github.com/IVAN-SMIT/Computer-vision-ITMO/blob/main/8/task8.ipynb)
 9.   [exam](https://github.com/IVAN-SMIT/Computer-vision-ITMO/blob/main/exam/exam.ipynb)
 
+благодарности https://t.me/IVAN_SMIT
